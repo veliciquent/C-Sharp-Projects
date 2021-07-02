@@ -1,0 +1,7 @@
+C:\Users\velic\Desktop\Basic_C#_Programs\Console App Assignment\bin\Debug\Console App Assignment.exe.config
+C:\Users\velic\Desktop\Basic_C#_Programs\Console App Assignment\bin\Debug\Console App Assignment.exe
+C:\Users\velic\Desktop\Basic_C#_Programs\Console App Assignment\bin\Debug\Console App Assignment.pdb
+C:\Users\velic\Desktop\Basic_C#_Programs\Console App Assignment\obj\Debug\Console App Assignment.csproj.CoreCompileInputs.cache
+C:\Users\velic\Desktop\Basic_C#_Programs\Console App Assignment\obj\Debug\Console App Assignment.exe
+C:\Users\velic\Desktop\Basic_C#_Programs\Console App Assignment\obj\Debug\Console App Assignment.pdb
+C:\Users\velic\Desktop\Basic_C#_Programs\Console App Assignment\obj\Debug\Console App Assignment.csproj.AssemblyReference.cache
