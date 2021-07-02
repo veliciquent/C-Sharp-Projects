@@ -1,0 +1,7 @@
+C:\Users\velic\Desktop\Basic_C#_Programs\Math_Comparison_Operator\bin\Debug\Math_Comparison_Operator.exe.config
+C:\Users\velic\Desktop\Basic_C#_Programs\Math_Comparison_Operator\bin\Debug\Math_Comparison_Operator.exe
+C:\Users\velic\Desktop\Basic_C#_Programs\Math_Comparison_Operator\bin\Debug\Math_Comparison_Operator.pdb
+C:\Users\velic\Desktop\Basic_C#_Programs\Math_Comparison_Operator\obj\Debug\Math_Comparison_Operator.csproj.AssemblyReference.cache
+C:\Users\velic\Desktop\Basic_C#_Programs\Math_Comparison_Operator\obj\Debug\Math_Comparison_Operator.csproj.CoreCompileInputs.cache
+C:\Users\velic\Desktop\Basic_C#_Programs\Math_Comparison_Operator\obj\Debug\Math_Comparison_Operator.exe
+C:\Users\velic\Desktop\Basic_C#_Programs\Math_Comparison_Operator\obj\Debug\Math_Comparison_Operator.pdb
