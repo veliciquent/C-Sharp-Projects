@@ -1,0 +1,6 @@
+C:\Users\velic\Desktop\Basic_C#_Programs\String Assignment\bin\Debug\String Assignment.exe.config
+C:\Users\velic\Desktop\Basic_C#_Programs\String Assignment\bin\Debug\String Assignment.exe
+C:\Users\velic\Desktop\Basic_C#_Programs\String Assignment\bin\Debug\String Assignment.pdb
+C:\Users\velic\Desktop\Basic_C#_Programs\String Assignment\obj\Debug\String Assignment.csproj.CoreCompileInputs.cache
+C:\Users\velic\Desktop\Basic_C#_Programs\String Assignment\obj\Debug\String Assignment.exe
+C:\Users\velic\Desktop\Basic_C#_Programs\String Assignment\obj\Debug\String Assignment.pdb
