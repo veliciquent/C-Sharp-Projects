@@ -1,0 +1,7 @@
+C:\Users\velic\Desktop\Basic_C#_Programs\Array Assignment\bin\Debug\Array Assignment.exe.config
+C:\Users\velic\Desktop\Basic_C#_Programs\Array Assignment\bin\Debug\Array Assignment.exe
+C:\Users\velic\Desktop\Basic_C#_Programs\Array Assignment\bin\Debug\Array Assignment.pdb
+C:\Users\velic\Desktop\Basic_C#_Programs\Array Assignment\obj\Debug\Array Assignment.csproj.AssemblyReference.cache
+C:\Users\velic\Desktop\Basic_C#_Programs\Array Assignment\obj\Debug\Array Assignment.csproj.CoreCompileInputs.cache
+C:\Users\velic\Desktop\Basic_C#_Programs\Array Assignment\obj\Debug\Array Assignment.exe
+C:\Users\velic\Desktop\Basic_C#_Programs\Array Assignment\obj\Debug\Array Assignment.pdb
