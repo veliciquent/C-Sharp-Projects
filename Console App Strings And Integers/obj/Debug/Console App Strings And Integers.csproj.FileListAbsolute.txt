@@ -1,0 +1,7 @@
+C:\Users\velic\source\repos\Console App Strings And Integers\bin\Debug\Console App Strings And Integers.exe.config
+C:\Users\velic\source\repos\Console App Strings And Integers\bin\Debug\Console App Strings And Integers.exe
+C:\Users\velic\source\repos\Console App Strings And Integers\bin\Debug\Console App Strings And Integers.pdb
+C:\Users\velic\source\repos\Console App Strings And Integers\obj\Debug\Console App Strings And Integers.csproj.AssemblyReference.cache
+C:\Users\velic\source\repos\Console App Strings And Integers\obj\Debug\Console App Strings And Integers.csproj.CoreCompileInputs.cache
+C:\Users\velic\source\repos\Console App Strings And Integers\obj\Debug\Console App Strings And Integers.exe
+C:\Users\velic\source\repos\Console App Strings And Integers\obj\Debug\Console App Strings And Integers.pdb
