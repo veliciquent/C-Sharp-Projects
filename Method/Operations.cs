@@ -8,6 +8,7 @@ namespace Method
 {
     class Operations
     {
+        // Creating a method that multiplies the given number by a power, that is an overloaded argument
         public static int Power(int input, int power = 2)
         {
             if (power == 0)

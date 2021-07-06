@@ -14,6 +14,7 @@ namespace Method
             Console.WriteLine("What number would you like to operate on?");
             int input = Int32.Parse(Console.ReadLine());
             Console.WriteLine("What number would you like to take it to the power of? If left blank it will square the number by default");
+            // Create a "Try-Catch" block in case the user chooses not to enter a second value, calling each function with/without the overload if given;
             try
             {
                 int power = Int32.Parse(Console.ReadLine());
@@ -23,7 +24,6 @@ namespace Method
             {
                 Console.WriteLine(Operations.Power(input));
             }
-            // Calling the "Operations" class and returning the value to the console
             Console.ReadLine();
         }
     }
