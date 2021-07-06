@@ -1,0 +1,6 @@
+C:\Users\velic\source\repos\Method Class\bin\Debug\Method Class.exe.config
+C:\Users\velic\source\repos\Method Class\bin\Debug\Method Class.exe
+C:\Users\velic\source\repos\Method Class\bin\Debug\Method Class.pdb
+C:\Users\velic\source\repos\Method Class\obj\Debug\Method Class.csproj.CoreCompileInputs.cache
+C:\Users\velic\source\repos\Method Class\obj\Debug\Method Class.exe
+C:\Users\velic\source\repos\Method Class\obj\Debug\Method Class.pdb
