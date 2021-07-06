@@ -1,0 +1,7 @@
+C:\Users\velic\source\repos\Calling Methods\bin\Debug\Calling Methods.exe.config
+C:\Users\velic\source\repos\Calling Methods\bin\Debug\Calling Methods.exe
+C:\Users\velic\source\repos\Calling Methods\bin\Debug\Calling Methods.pdb
+C:\Users\velic\source\repos\Calling Methods\obj\Debug\Calling Methods.csproj.AssemblyReference.cache
+C:\Users\velic\source\repos\Calling Methods\obj\Debug\Calling Methods.csproj.CoreCompileInputs.cache
+C:\Users\velic\source\repos\Calling Methods\obj\Debug\Calling Methods.exe
+C:\Users\velic\source\repos\Calling Methods\obj\Debug\Calling Methods.pdb
