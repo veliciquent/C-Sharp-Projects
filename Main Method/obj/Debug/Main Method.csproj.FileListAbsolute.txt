@@ -1,0 +1,7 @@
+C:\Users\velic\source\repos\Main Method\bin\Debug\Main Method.exe.config
+C:\Users\velic\source\repos\Main Method\bin\Debug\Main Method.exe
+C:\Users\velic\source\repos\Main Method\bin\Debug\Main Method.pdb
+C:\Users\velic\source\repos\Main Method\obj\Debug\Main Method.csproj.AssemblyReference.cache
+C:\Users\velic\source\repos\Main Method\obj\Debug\Main Method.csproj.CoreCompileInputs.cache
+C:\Users\velic\source\repos\Main Method\obj\Debug\Main Method.exe
+C:\Users\velic\source\repos\Main Method\obj\Debug\Main Method.pdb
