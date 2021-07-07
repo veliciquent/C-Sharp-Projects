@@ -10,12 +10,12 @@ namespace Calling_Methods
     {
         static void Main(string[] args)
         {
-            Operations Operations = new Operations();
+            Operations Operate = new Operations();
             // Ask the user for their selected integer to operate on
             Console.WriteLine("What number would you like to operate on?");
             int input = Int32.Parse(Console.ReadLine());
             // Calling the "Operations" class for each method and returning the result to the console
-            Console.WriteLine("Square: " + Operations.Square(input) + "\r\nInverse: " + Operations.Inverse(input) + "\r\nPercentage: " + Operations.Percent(input) + "%");
+            Console.WriteLine("Square: " + Operate.Square(input) + "\r\nInverse: " + Operate.Inverse(input) + "\r\nPercentage: " + Operate.Percent(input) + "%");
             Console.ReadLine();
         }
     }

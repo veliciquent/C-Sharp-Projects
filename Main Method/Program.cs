@@ -11,12 +11,12 @@ namespace Main_Method
         static void Main(string[] args)
         {
             // Instantiating the class
-            Operations Operations = new Operations();
+            Operations Operate = new Operations();
             // Ask the user for their selected integer to operate on
             Console.WriteLine("What number would you like to operate on?");
             int input = Int32.Parse(Console.ReadLine());
             // Calling the "Operations" class for each method and casting the input as the different input types, returning the result to the console
-            Console.WriteLine("Int: " + Operations.notRandom(input) + "\r\nFloat: " + Operations.notRandom((float)input) + "\r\nString: " + Operations.notRandom(input.ToString()));
+            Console.WriteLine("Int: " + Operate.notRandom(input) + "\r\nFloat: " + Operate.notRandom((float)input) + "\r\nString: " + Operate.notRandom(input.ToString()));
             Console.ReadLine();
         }
     }

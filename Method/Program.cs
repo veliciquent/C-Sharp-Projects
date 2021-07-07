@@ -10,7 +10,7 @@ namespace Method
     {
         static void Main(string[] args)
         {
-            Operations Operations = new Operations();
+            Operations Operate = new Operations();
             // Ask the user for their selected integer to operate on
             Console.WriteLine("What number would you like to operate on?");
             int input = Int32.Parse(Console.ReadLine());
@@ -19,11 +19,11 @@ namespace Method
             try
             {
                 int power = Int32.Parse(Console.ReadLine());
-                Console.WriteLine(Operations.Power(input, power));
+                Console.WriteLine(Operate.Power(input, power));
             }
             catch (FormatException ex)
             {
-                Console.WriteLine(Operations.Power(input));
+                Console.WriteLine(Operate.Power(input));
             }
             Console.ReadLine();
         }
