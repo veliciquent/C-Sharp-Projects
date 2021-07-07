@@ -1,0 +1,7 @@
+C:\Users\velic\source\repos\Methods and Objects\bin\Debug\Methods and Objects.exe.config
+C:\Users\velic\source\repos\Methods and Objects\bin\Debug\Methods and Objects.exe
+C:\Users\velic\source\repos\Methods and Objects\bin\Debug\Methods and Objects.pdb
+C:\Users\velic\source\repos\Methods and Objects\obj\Debug\Methods and Objects.csproj.AssemblyReference.cache
+C:\Users\velic\source\repos\Methods and Objects\obj\Debug\Methods and Objects.csproj.CoreCompileInputs.cache
+C:\Users\velic\source\repos\Methods and Objects\obj\Debug\Methods and Objects.exe
+C:\Users\velic\source\repos\Methods and Objects\obj\Debug\Methods and Objects.pdb
