@@ -11,7 +11,7 @@ namespace Main_Method
         static void Main(string[] args)
         {
             // Instantiating the class
-            Operations = new Operations();
+            Operations Operations = new Operations();
             // Ask the user for their selected integer to operate on
             Console.WriteLine("What number would you like to operate on?");
             int input = Int32.Parse(Console.ReadLine());

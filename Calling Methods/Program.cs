@@ -10,6 +10,7 @@ namespace Calling_Methods
     {
         static void Main(string[] args)
         {
+            Operations Operations = new Operations();
             // Ask the user for their selected integer to operate on
             Console.WriteLine("What number would you like to operate on?");
             int input = Int32.Parse(Console.ReadLine());

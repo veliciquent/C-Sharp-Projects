@@ -11,7 +11,7 @@ namespace Method_Class
         static void Main(string[] args)
         {
             // Instantiating the class
-            Operations = new Operations();
+            Operations Operations = new Operations();
             // Calls the method with defined arguments for code legibility
             Operations.notRandom(input: 2, display: 12);
             Console.ReadLine();
