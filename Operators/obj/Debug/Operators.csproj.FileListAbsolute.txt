@@ -1,0 +1,7 @@
+C:\Users\velic\source\repos\Operators\bin\Debug\Operators.exe.config
+C:\Users\velic\source\repos\Operators\bin\Debug\Operators.exe
+C:\Users\velic\source\repos\Operators\bin\Debug\Operators.pdb
+C:\Users\velic\source\repos\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\velic\source\repos\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\velic\source\repos\Operators\obj\Debug\Operators.exe
+C:\Users\velic\source\repos\Operators\obj\Debug\Operators.pdb
