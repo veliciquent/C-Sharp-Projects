@@ -1,0 +1,7 @@
+C:\Users\velic\source\repos\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\velic\source\repos\Lambda\bin\Debug\Lambda.exe
+C:\Users\velic\source\repos\Lambda\bin\Debug\Lambda.pdb
+C:\Users\velic\source\repos\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\velic\source\repos\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\velic\source\repos\Lambda\obj\Debug\Lambda.exe
+C:\Users\velic\source\repos\Lambda\obj\Debug\Lambda.pdb
