@@ -11,12 +11,12 @@ namespace Class_Submission
         static void Main(string[] args)
         {
             // Instantiating the class
-            Operations Operations = new Operations();
+            Operations Operate = new Operations();
             // Requesting the user input for the number to halve
             Console.WriteLine("Enter a number to halve");
             int input = Int32.Parse(Console.ReadLine());
             // Calling the operation on the user input and returning it to the console
-            Operations.Halve(out input, input);
+            Operate.Halve(out input, input);
             Console.WriteLine("Your halved number is; " + input);
             Console.ReadLine();
         }
