@@ -1,0 +1,7 @@
+C:\Users\velic\source\repos\Abstract Class\bin\Debug\Abstract Class.exe.config
+C:\Users\velic\source\repos\Abstract Class\bin\Debug\Abstract Class.exe
+C:\Users\velic\source\repos\Abstract Class\bin\Debug\Abstract Class.pdb
+C:\Users\velic\source\repos\Abstract Class\obj\Debug\Abstract Class.csproj.AssemblyReference.cache
+C:\Users\velic\source\repos\Abstract Class\obj\Debug\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\velic\source\repos\Abstract Class\obj\Debug\Abstract Class.exe
+C:\Users\velic\source\repos\Abstract Class\obj\Debug\Abstract Class.pdb
