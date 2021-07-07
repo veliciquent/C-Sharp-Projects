@@ -45,7 +45,7 @@ namespace Console_App_Strings_And_Integers
             }
             finally
             {
-                Console.WriteLine("The console has emerged from a try-catch block")
+                Console.WriteLine("The console has emerged from a try-catch block");
                 Console.ReadLine();
             }
         }
