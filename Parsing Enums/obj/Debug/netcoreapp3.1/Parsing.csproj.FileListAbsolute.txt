@@ -1,0 +1,13 @@
+C:\Users\velic\source\repos\Parsing\bin\Debug\netcoreapp3.1\Parsing.exe
+C:\Users\velic\source\repos\Parsing\bin\Debug\netcoreapp3.1\Parsing.deps.json
+C:\Users\velic\source\repos\Parsing\bin\Debug\netcoreapp3.1\Parsing.runtimeconfig.json
+C:\Users\velic\source\repos\Parsing\bin\Debug\netcoreapp3.1\Parsing.runtimeconfig.dev.json
+C:\Users\velic\source\repos\Parsing\bin\Debug\netcoreapp3.1\Parsing.dll
+C:\Users\velic\source\repos\Parsing\bin\Debug\netcoreapp3.1\Parsing.pdb
+C:\Users\velic\source\repos\Parsing\obj\Debug\netcoreapp3.1\Parsing.csproj.AssemblyReference.cache
+C:\Users\velic\source\repos\Parsing\obj\Debug\netcoreapp3.1\Parsing.AssemblyInfoInputs.cache
+C:\Users\velic\source\repos\Parsing\obj\Debug\netcoreapp3.1\Parsing.AssemblyInfo.cs
+C:\Users\velic\source\repos\Parsing\obj\Debug\netcoreapp3.1\Parsing.csproj.CoreCompileInputs.cache
+C:\Users\velic\source\repos\Parsing\obj\Debug\netcoreapp3.1\Parsing.dll
+C:\Users\velic\source\repos\Parsing\obj\Debug\netcoreapp3.1\Parsing.pdb
+C:\Users\velic\source\repos\Parsing\obj\Debug\netcoreapp3.1\Parsing.genruntimeconfig.cache
