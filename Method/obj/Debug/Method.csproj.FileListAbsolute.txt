@@ -5,3 +5,10 @@ C:\Users\velic\source\repos\Method\obj\Debug\Method.csproj.CoreCompileInputs.cac
 C:\Users\velic\source\repos\Method\obj\Debug\Method.exe
 C:\Users\velic\source\repos\Method\obj\Debug\Method.pdb
 C:\Users\velic\source\repos\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Method\bin\Debug\Method.exe.config
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Method\bin\Debug\Method.exe
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Method\bin\Debug\Method.pdb
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Method\obj\Debug\Method.exe
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Method\obj\Debug\Method.pdb
