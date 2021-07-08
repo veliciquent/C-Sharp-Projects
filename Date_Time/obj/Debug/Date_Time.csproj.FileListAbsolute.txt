@@ -1,0 +1,7 @@
+C:\Users\velic\source\repos\Date_Time\bin\Debug\Date_Time.exe.config
+C:\Users\velic\source\repos\Date_Time\bin\Debug\Date_Time.exe
+C:\Users\velic\source\repos\Date_Time\bin\Debug\Date_Time.pdb
+C:\Users\velic\source\repos\Date_Time\obj\Debug\Date_Time.csproj.AssemblyReference.cache
+C:\Users\velic\source\repos\Date_Time\obj\Debug\Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\velic\source\repos\Date_Time\obj\Debug\Date_Time.exe
+C:\Users\velic\source\repos\Date_Time\obj\Debug\Date_Time.pdb
