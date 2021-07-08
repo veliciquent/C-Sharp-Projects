@@ -5,3 +5,10 @@ C:\Users\velic\source\repos\Class Submission\bin\Debug\Class Submission.exe
 C:\Users\velic\source\repos\Class Submission\bin\Debug\Class Submission.pdb
 C:\Users\velic\source\repos\Class Submission\obj\Debug\Class Submission.exe
 C:\Users\velic\source\repos\Class Submission\obj\Debug\Class Submission.pdb
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Class Submission\bin\Debug\Class Submission.exe.config
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Class Submission\bin\Debug\Class Submission.exe
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Class Submission\bin\Debug\Class Submission.pdb
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Class Submission\obj\Debug\Class Submission.csproj.AssemblyReference.cache
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Class Submission\obj\Debug\Class Submission.csproj.CoreCompileInputs.cache
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Class Submission\obj\Debug\Class Submission.exe
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Class Submission\obj\Debug\Class Submission.pdb
