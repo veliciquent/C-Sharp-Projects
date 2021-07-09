@@ -16,4 +16,24 @@ namespace Constructor
             var implied = Guid.NewGuid();
         }
     }
+
+    class Person
+    {
+        // Creating initial constructor
+        public Person(string FirstName, string LastName, DateTime Birthday)
+        {
+            firstName = FirstName;
+            lastName = LastName;
+            birthday = Birthday;
+        }
+        // Creating chained constructor
+        public Person(string FirstName) : this(FirstName, "", DateTime.Now)
+        {
+
+        }
+
+        public string firstName { get; set; }
+        public string lastName { get; set; }
+        public DateTime birthday { get; set; }
+    }
 }
