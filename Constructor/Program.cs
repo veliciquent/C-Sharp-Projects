@@ -10,30 +10,38 @@ namespace Constructor
     {
         static void Main(string[] args)
         {
-            // Creating an abritrary constant string
-            const string nope = "I AM ETERNAL";
+
             // Creating an implied variable utilizing "var"
-            var implied = Guid.NewGuid();
+            Console.WriteLine("Enter your name or favorite number: "); 
+            var answer = Console.ReadLine(); 
+            if (int.TryParse(answer, out int x)) 
+            { 
+                Person newPerson = new Person(x); 
+            } else 
+            {
+                Person newPerson = new Person(answer); 
+            }
         }
     }
 
     class Person
     {
         // Creating initial constructor
-        public Person(string FirstName, string LastName, DateTime Birthday)
+        public Person(string name, int age)
         {
-            firstName = FirstName;
-            lastName = LastName;
-            birthday = Birthday;
+            const string nameString = "Your name is: ";
+            const string ageString = "\r\nYour age is: ";
+            Console.WriteLine(nameString + name + ageString + age);
+            Console.ReadLine();
         }
-        // Creating chained constructor
-        public Person(string FirstName) : this(FirstName, "", DateTime.Now)
+        // Creating chained constructors
+        public Person(string name) : this(name, 0)
         {
 
         }
+        public Person(int age) : this("Anonymous", age)
+        {
 
-        public string firstName { get; set; }
-        public string lastName { get; set; }
-        public DateTime birthday { get; set; }
+        }
     }
 }

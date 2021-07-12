@@ -1,0 +1,7 @@
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Constructor\bin\Debug\Constructor.exe
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Constructor\bin\Debug\Constructor.pdb
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Constructor\obj\Debug\Constructor.exe
+C:\Users\velic\Documents\GitHub\C-Sharp-Projects\Constructor\obj\Debug\Constructor.pdb
